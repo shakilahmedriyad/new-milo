@@ -16,8 +16,29 @@ export default function AboutUs() {
             alt="about-us"
           />
           <p className=" text-5xl sm:text-6xl px-5 text-yellow font-semibold">
-            The First real Dog on Base
+            The First real Gambling Dog
           </p>
+          <div className="relative flex flex-col items-center">
+            <p className="text-5xl sm:text-6xl px-5 mt-7 text-yellow font-semibold">
+              MILO BUST
+            </p>
+            <Image
+              src={"/profit.jpg"}
+              className="scale-[1.005] mt-8 mb-16"
+              quality={100}
+              priority
+              width={500}
+              height={500}
+              alt="about-us"
+            />
+            <Image
+              src={"/milo-head.png"}
+              className="w-[35%] z-10 left-[65%] top-[35%] absolute"
+              width={500}
+              height={500}
+              alt="about-us"
+            />
+          </div>
           <p className="text-yellow mb-10 px-5">
             Crypto is for everyone, yet many people miss out . Base was designed
             to solve this problem, aspiring to onboard over 1 billion new People

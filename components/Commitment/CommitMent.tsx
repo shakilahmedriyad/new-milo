@@ -11,7 +11,7 @@ export default function CommitMent() {
             <div className="flex flex-col items-center">
               <div className="border-8 max-w-fit border-white rounded-2xl">
                 <Image
-                  src={"/strong-dog.png"}
+                  src={"/millo-cut.jpg"}
                   className="w-[18rem]"
                   height={600}
                   width={600}
@@ -58,8 +58,8 @@ export default function CommitMent() {
             <div className="flex flex-col items-center">
               <div className="border-8 max-w-fit border-white rounded-2xl">
                 <Image
-                  src={"/dog-4.png"}
-                  className="w-[18rem]"
+                  src={"/dog-5.jpg"}
+                  className="w-[18rem] "
                   height={600}
                   width={600}
                   alt="500"
