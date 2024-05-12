@@ -6,18 +6,6 @@ export default function AboutUs() {
     <section id="about-us" className="bg-gray-900 w-full py-12  ">
       <ContentLayout>
         <div className="flex gap-5 text-2xl flex-col items-center">
-          <Image
-            src={"/water.png"}
-            className="scale-[1.005] mb-24"
-            quality={100}
-            priority
-            width={500}
-            height={500}
-            alt="about-us"
-          />
-          <p className=" text-5xl sm:text-6xl px-5 text-yellow font-semibold">
-            The First real Gambling Dog
-          </p>
           <div className="relative flex flex-col items-center">
             <p className="text-5xl sm:text-6xl px-5 mt-7 text-yellow font-semibold">
               MILO BUST
@@ -58,6 +46,18 @@ export default function AboutUs() {
             <br />
             <br />
             Are you ready to join Milo on this journey?
+          </p>
+          <Image
+            src={"/water.png"}
+            className="scale-[1.005] mb-24"
+            quality={100}
+            priority
+            width={500}
+            height={500}
+            alt="about-us"
+          />
+          <p className=" text-5xl sm:text-6xl px-5 text-yellow font-semibold mb-5">
+            The First real Gambling Dog
           </p>
         </div>
       </ContentLayout>
