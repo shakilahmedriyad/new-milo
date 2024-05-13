@@ -47,9 +47,9 @@ export default function Footer() {
                 alt="dog"
                 className="w-[23rem]"
               />
-              <div className=" px-3 py-2 rounded-full bg-yellow text-white text-xs sm:text-sm inline-block">
+              {/* <div className=" px-3 py-2 rounded-full bg-yellow text-white text-xs sm:text-sm inline-block">
                 0000000000000000000000000000000000000000
-              </div>
+              </div> */}
             </div>
           </div>
         </div>
