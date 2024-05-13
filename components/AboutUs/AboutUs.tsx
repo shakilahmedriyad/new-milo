@@ -41,6 +41,11 @@ export default function AboutUs() {
             All Milo Bust profits will be used to Buy Back and Burn{" "}
             <span className="font-sans font-bold"> $</span>Milo on Sol
           </p>
+          <p className="text-yellow text-3xl mb-3 text-center px-5">
+            {" "}
+            <span className="font-sans font-bold"> (</span>Coming Soon
+            <span className="font-sans font-bold"> )</span>
+          </p>
           <Image
             src={"/water.png"}
             className="scale-[1.005] mb-16"
