@@ -20,8 +20,8 @@ const inter = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Milo Solana",
-  description: "buy solana tokens",
+  title: "Milo on Solana",
+  description: "Milo Bust",
   icons: {
     icon: "/ico2.ico",
   },
