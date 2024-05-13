@@ -11,7 +11,7 @@ export default function AboutUs() {
               MILO BUST
             </p>
             <Image
-              src={"/profit.jpg"}
+              src={"/remove-waterMark.png"}
               className="scale-[1.005] mt-8 mb-16"
               quality={100}
               priority
@@ -21,7 +21,7 @@ export default function AboutUs() {
             />
             <Image
               src={"/milo-head.png"}
-              className="w-[35%] z-10 left-[65%] top-[35%] absolute"
+              className="w-[37%] z-10 left-[64%] top-[38%] absolute"
               width={500}
               height={500}
               alt="about-us"

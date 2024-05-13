@@ -47,7 +47,7 @@ export default function Footer() {
                 quality={100}
                 priority
                 alt="dog"
-                className="w-[30rem]"
+                className="w-[23rem]"
               />
               <div className=" px-3 py-2 rounded-full bg-yellow text-white text-xs sm:text-sm inline-block">
                 0x6F10607507afF<span className="font-sans">4</span>
