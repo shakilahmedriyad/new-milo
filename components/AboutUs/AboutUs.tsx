@@ -27,9 +27,12 @@ export default function AboutUs() {
               alt="about-us"
             />
           </div>
+          <p className="text-yellow mb-3 text-center px-5">
+            Introducing Milo Bust
+          </p>
           <p className="text-yellow mb-10 px-5">
-            Introducing Milo Bust: The electrifying Crypto gambling game where
-            players place bets, watch a multiplier rise, and cash out to win big
+            The electrifying Crypto gambling game where players place bets,
+            watch a multiplier rise, and cash out to win big
             <span className="text-4xl font-bold"> {" –"}</span> but beware, it
             could Bust at any moment, leaving you with nothing
             <span className="font-sans font-bold"> !</span>
