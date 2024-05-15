@@ -19,7 +19,7 @@ export default function HeaderSection() {
           priority
         />
         <div className="text-white w-full xl:w-[50%] xl:order-2 order-1 relative z-10 mt-20 xl:mt-0 xl:mb-24 font-semibold">
-          <p>I’m Milo a degenerate gambler on the Solona network</p>
+          <p>I’m Milo a degenerate gambler on the Solana network</p>
           <h1 className=" text-8xl sm:text-[10rem] py-6 sm:py-12">
             <span className="font-sans">$</span>Milo
           </h1>
