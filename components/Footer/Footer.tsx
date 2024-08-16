@@ -15,7 +15,7 @@ export default function Footer() {
             <div className="flex flex-col sm:flex-row gap-5 text-yellow mt-7 text-7xl">
               <Link
                 target="_blank"
-                href={"https://t.me/MiloBust"}
+                href={"https://t.me/CtoMilo"}
                 className="bg-yellow order-2 hover:scale-110  uppercase px-3 py-2 text-xl md:text-4xl text-white rotate-6 border-[4px] border-black"
               >
                 Buy Milo
@@ -23,14 +23,14 @@ export default function Footer() {
               <div className="flex gap-7">
                 <Link
                   target="_blank"
-                  href={"https://twitter.com/BustMilo"}
+                  href={"https://x.com/OgMiloSol"}
                   className="w-16 h-16 hover:scale-110 cursor-pointer -rotate-3 bg-yellow flex items-center justify-center"
                 >
                   <FaXTwitter className="text-white p-2" />
                 </Link>
                 <Link
                   target="_blank"
-                  href={"https://t.me/MiloBust"}
+                  href={"https://t.me/CtoMilo"}
                   className="w-16 h-16 rotate-3 hover:scale-110 cursor-pointer bg-yellow flex items-center justify-center"
                 >
                   <FaTelegramPlane className="text-white p-2" />
@@ -39,17 +39,17 @@ export default function Footer() {
             </div>
             <div className="flex flex-col items-center">
               <Image
-                src={"/millo-coffee.png"}
+                src={"/ufo.png"}
                 width={500}
                 height={500}
                 quality={100}
                 priority
                 alt="dog"
-                className="w-[23rem]"
+                className="w-[25rem]"
               />
-              {/* <div className=" px-3 py-2 rounded-full bg-yellow text-white text-xs sm:text-sm inline-block">
+              <div className=" px-3 py-2 rounded-full bg-yellow text-white text-xs sm:text-sm inline-block">
                 0000000000000000000000000000000000000000
-              </div> */}
+              </div>
             </div>
           </div>
         </div>

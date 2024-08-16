@@ -29,12 +29,12 @@ export default function NavBar() {
           >
             About
           </p>
-          <p
+          {/* <p
             onClick={() => handleClick("commitment")}
             className="menu-item cursor-pointer"
           >
             Our commitment
-          </p>
+          </p> */}
           <p
             onClick={() => handleClick("join")}
             className="menu-item cursor-pointer"
