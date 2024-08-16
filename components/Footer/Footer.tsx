@@ -39,13 +39,13 @@ export default function Footer() {
             </div>
             <div className="flex flex-col items-center">
               <Image
-                src={"/ufo.png"}
+                src={"/dog.png"}
                 width={500}
                 height={500}
                 quality={100}
                 priority
                 alt="dog"
-                className="w-[25rem]"
+                className="w-[23rem]"
               />
               <div className=" px-3 py-2 rounded-full bg-yellow text-white text-xs sm:text-sm inline-block">
                 0000000000000000000000000000000000000000
