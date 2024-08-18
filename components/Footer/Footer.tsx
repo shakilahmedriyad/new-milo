@@ -48,7 +48,7 @@ export default function Footer() {
                 className="w-[23rem]"
               />
               <div className=" px-3 py-2 rounded-full bg-yellow text-white text-xs sm:text-sm inline-block">
-                0000000000000000000000000000000000000000
+                3j7Tac9oWkypzbeWYX3yDqdexQ3JGYA9ALtmN5WVnP86
               </div>
             </div>
           </div>
