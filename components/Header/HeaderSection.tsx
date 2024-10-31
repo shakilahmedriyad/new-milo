@@ -24,10 +24,10 @@ export default function HeaderSection() {
             <span className="font-sans">$</span>Milo
           </h1>
           <div className="flex items-center gap-5 text-white  text-7xl">
-            <Link target="_blank" href={"https://x.com/OgMiloSol"}>
+            <Link target="_blank" href={"https://x.com/pumpmilo"}>
               <FaXTwitter className="border-[8px] border-white p-2 rounded-full " />
             </Link>
-            <Link target="_blank" href={"https://t.me/CtoMilo"}>
+            <Link target="_blank" href={"https://t.me/MiloPump"}>
               <FaTelegramPlane className="border-[8px] border-white p-2 rounded-full " />
             </Link>
             {/* <Link

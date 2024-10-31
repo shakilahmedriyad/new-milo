@@ -15,7 +15,7 @@ export default function Footer() {
             <div className="flex flex-col sm:flex-row gap-5 text-yellow mt-7 text-7xl">
               <Link
                 target="_blank"
-                href={"https://t.me/CtoMilo"}
+                href={"#"}
                 className="bg-yellow order-2 hover:scale-110  uppercase px-3 py-2 text-xl md:text-4xl text-white rotate-6 border-[4px] border-black"
               >
                 Buy Milo
@@ -23,14 +23,14 @@ export default function Footer() {
               <div className="flex gap-7">
                 <Link
                   target="_blank"
-                  href={"https://x.com/OgMiloSol"}
+                  href={"https://x.com/pumpmilo"}
                   className="w-16 h-16 hover:scale-110 cursor-pointer -rotate-3 bg-yellow flex items-center justify-center"
                 >
                   <FaXTwitter className="text-white p-2" />
                 </Link>
                 <Link
                   target="_blank"
-                  href={"https://t.me/CtoMilo"}
+                  href={"https://t.me/MiloPump"}
                   className="w-16 h-16 rotate-3 hover:scale-110 cursor-pointer bg-yellow flex items-center justify-center"
                 >
                   <FaTelegramPlane className="text-white p-2" />
@@ -48,7 +48,7 @@ export default function Footer() {
                 className="w-[23rem]"
               />
               <div className=" px-3 py-2 rounded-full bg-yellow text-white text-xs sm:text-sm inline-block">
-                3j7Tac9oWkypzbeWYX3yDqdexQ3JGYA9ALtmN5WVnP86
+                00000000000000000000000000000000000000000000
               </div>
             </div>
           </div>
