@@ -27,7 +27,7 @@ export default function HeaderSection() {
             <Link target="_blank" href={"https://x.com/pumpmilo"}>
               <FaXTwitter className="border-[8px] border-white p-2 rounded-full " />
             </Link>
-            <Link target="_blank" href={"https://t.me/MiloPump"}>
+            <Link target="_blank" href={"https://t.me/CtoMilo"}>
               <FaTelegramPlane className="border-[8px] border-white p-2 rounded-full " />
             </Link>
             {/* <Link
